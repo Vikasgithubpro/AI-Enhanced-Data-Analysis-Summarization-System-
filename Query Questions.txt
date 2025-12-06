@@ -1,0 +1,157 @@
+🎬 Basic Netflix Query Questions
+
+Show all records from the Netflix table.
+
+Display only the titles of all movies and TV shows.
+
+Find all movies released in 2020.
+
+List all TV shows directed by Rajiv Chilaka.
+
+Show the first 10 rows of the dataset.
+
+Find all titles added in the year 2021.
+
+Display all movies where the country is India.
+
+Find the total number of movies and TV shows in the dataset.
+
+Show all records where the rating is TV-MA.
+
+Count how many movies were released each year.
+
+Find the number of TV shows available per country.
+
+Show all titles that have “Love” in their name.
+
+Find all titles directed by Martin Scorsese.
+
+List all shows added between 2019 and 2021.
+
+Count the number of titles in each rating category.
+
+Find all shows produced in United States or India.
+
+Display the most common genre/category on Netflix.
+
+
+
+
+💼 Basic Query Questions
+
+Show all records from the dataset.
+
+Display only the company names and their countries.
+
+Find all companies located in United States.
+
+List the top 10 companies by revenue.
+
+Show the company with the highest number of employees.
+
+Find the company with the lowest profit.
+
+Display all companies where the revenue is greater than 100 billion.
+
+Show companies that have profits greater than 10 billion.
+
+Find all companies from India.
+
+Display the total number of companies in the dataset.
+
+📈 Slightly Intermediate Query Questions
+
+Count the number of companies in each country.
+
+Show the average number of employees per company.
+
+List all companies with more than 100,000 employees.
+
+Display companies whose profit is less than 1 billion.
+
+Show the company with the largest market value.
+
+Find all companies where profit is more than 10% of revenue.
+
+Display the top 5 companies by profit margin (profit/revenue).
+
+Find the total revenue of all companies combined.
+
+List all companies whose names start with “A”.
+
+Show all companies sorted by country and then by revenue (descending).
+
+
+
+
+
+
+
+
+
+
+🚗 Basic Descriptive Questions
+
+What is the total number of car models listed?
+
+Which manufacturers have the highest number of models?
+
+Show all models manufactured by Toyota.
+
+Which car has the highest sales (in thousands)?
+
+Which car has the lowest resale value?
+
+What is the average price of all cars?
+
+How many cars are labeled as “Passenger” vs “Car” type?
+
+Which manufacturer has the highest average resale value?
+
+What’s the engine size range across all cars?
+
+How many cars have a horsepower greater than 250?
+
+⚙️ Performance & Specifications Questions
+
+Which car has the highest horsepower?
+
+List the top 10 cars with the best fuel efficiency.
+
+Which cars have both high horsepower and good fuel efficiency?
+
+What’s the average curb weight of all vehicles?
+
+Find all cars with engine size above 3 liters.
+
+Which cars have a Power Performance Factor above 100?
+
+What’s the relation between price and horsepower?
+
+Which cars were launched most recently?
+
+Find all cars launched after 2012.
+
+Which cars have the lowest fuel efficiency?
+
+📊 Analytical / Comparison Questions
+
+Compare the average price of Passenger cars vs Cars.
+
+Which manufacturer’s vehicles have the highest average horsepower?
+
+What’s the correlation between price and resale value?
+
+Do cars with larger engines tend to have higher horsepower?
+
+Find the manufacturer with the highest total sales.
+
+List all cars from Ford with fuel efficiency greater than 25.
+
+Which cars have a resale value above 30 and horsepower below 200?
+
+Which vehicles have the largest wheelbase?
+
+Find the lightest car with more than 150 horsepower.
+
+Identify any outliers in price or sales.
