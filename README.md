@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🚀 AI-Enhanced Data Analysis & Intelligent Summarization System
 
 An **AI-driven data analysis web application** that enables users to explore datasets, ask questions in natural language, and receive intelligent insights, summaries, and explanations — all through an interactive web interface.
